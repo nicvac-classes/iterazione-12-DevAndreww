@@ -39,7 +39,7 @@ int main()
 
     cout << "Sono stati accumulati " << risparmi << "€." << endl;
 
-    cout << "Sono rimasti " << -1*mancante << "€." << endl;
+    cout << "Son rimasti " << -1*mancante << "€." << endl;
 }
 
 //LEGGERE LE ISTRUZIONI NEL FILE README.md
